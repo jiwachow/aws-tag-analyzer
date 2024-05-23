@@ -1,0 +1,3 @@
+Environment,Focused Tag Key,Focused Tag Value,Excluded Tag Key,Excluded Tag Value,Total Resources,Resources with Focused Tags,Resources Missing Focused Tags
+dev,customer_function,,,platform,324,73,251
+int,customer_function,,,platform,120,0,120
